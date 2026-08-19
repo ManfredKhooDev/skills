@@ -225,4 +225,5 @@ General workflow tools, not code-specific.
 
 **Model-invoked**
 
+- **[find-skills](./skills/productivity/find-skills/SKILL.md)** — Discover and vet installable agent skills for specialized capabilities, using the best search mechanism available in the current environment.
 - **[grilling](./skills/productivity/grilling/SKILL.md)** — Interview the user relentlessly about a plan, decision, or idea until every branch of the decision tree is resolved. The reusable loop behind `grill-me` and `grill-with-docs`.
