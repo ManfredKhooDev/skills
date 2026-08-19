@@ -15,4 +15,5 @@ Reachable only when you type them (Claude Code: `disable-model-invocation: true`
 
 Model- or user-reachable (rich trigger phrasing so the model can reach for them).
 
+- **[find-skills](./find-skills/SKILL.md)** — Discover and vet installable agent skills for specialized capabilities, using the best search mechanism available in the current environment.
 - **[grilling](./grilling/SKILL.md)** — Interview the user relentlessly about a plan, decision, or idea until every branch of the decision tree is resolved.
